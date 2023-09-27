@@ -1,0 +1,27 @@
+[1.058s] Invoking command in '/home/userfs/h/hjvw500/Turtlesim/py_pubsub': PYTHONPATH=/home/userfs/h/hjvw500/Turtlesim/build/py_pubsub/prefix_override:/home/userfs/h/hjvw500/Turtlesim/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/py_pubsub build --build-base /home/userfs/h/hjvw500/Turtlesim/build/py_pubsub/build install --record /home/userfs/h/hjvw500/Turtlesim/build/py_pubsub/install.log --single-version-externally-managed
+[1.338s] running egg_info
+[1.339s] writing ../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[1.341s] writing dependency_links to ../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[1.342s] writing entry points to ../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[1.344s] writing requirements to ../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[1.346s] writing top-level names to ../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[1.351s] reading manifest file '../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[1.353s] writing manifest file '../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[1.355s] running build
+[1.355s] running build_py
+[1.356s] copying py_pubsub/publisher_member_function.py -> /home/userfs/h/hjvw500/Turtlesim/build/py_pubsub/build/lib/py_pubsub
+[1.361s] running install
+[1.361s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.361s]   warnings.warn(
+[1.361s] running install_lib
+[1.364s] copying /home/userfs/h/hjvw500/Turtlesim/build/py_pubsub/build/lib/py_pubsub/publisher_member_function.py -> /home/userfs/h/hjvw500/Turtlesim/install/py_pubsub/lib/python3.10/site-packages/py_pubsub
+[1.369s] byte-compiling /home/userfs/h/hjvw500/Turtlesim/install/py_pubsub/lib/python3.10/site-packages/py_pubsub/publisher_member_function.py to publisher_member_function.cpython-310.pyc
+[1.373s] running install_data
+[1.374s] running install_egg_info
+[1.375s] removing '/home/userfs/h/hjvw500/Turtlesim/install/py_pubsub/lib/python3.10/site-packages/py_pubsub-0.0.0-py3.10.egg-info' (and everything under it)
+[1.385s] Copying ../build/py_pubsub/py_pubsub.egg-info to /home/userfs/h/hjvw500/Turtlesim/install/py_pubsub/lib/python3.10/site-packages/py_pubsub-0.0.0-py3.10.egg-info
+[1.414s] running install_scripts
+[1.459s] Installing listener script to /home/userfs/h/hjvw500/Turtlesim/install/py_pubsub/lib/py_pubsub
+[1.462s] Installing talker script to /home/userfs/h/hjvw500/Turtlesim/install/py_pubsub/lib/py_pubsub
+[1.465s] writing list of installed files to '/home/userfs/h/hjvw500/Turtlesim/build/py_pubsub/install.log'
+[1.485s] Invoked command in '/home/userfs/h/hjvw500/Turtlesim/py_pubsub' returned '0': PYTHONPATH=/home/userfs/h/hjvw500/Turtlesim/build/py_pubsub/prefix_override:/home/userfs/h/hjvw500/Turtlesim/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/py_pubsub build --build-base /home/userfs/h/hjvw500/Turtlesim/build/py_pubsub/build install --record /home/userfs/h/hjvw500/Turtlesim/build/py_pubsub/install.log --single-version-externally-managed
